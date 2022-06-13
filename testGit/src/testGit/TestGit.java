@@ -8,7 +8,7 @@ public class TestGit {
 		
 		
 		
-		
+		//
 		
 		System.out.println("Affiche un test");
 		
@@ -21,6 +21,9 @@ public class TestGit {
 	
 		System.out.println(("Réenvoi"));
 		System.out.println(("+2"));
+		
+		
+		System.out.println(("+4"));
 	}
 	
 
