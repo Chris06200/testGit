@@ -17,8 +17,10 @@ public class TestGit {
 		
 		System.out.println("Test correct");
 		
-		
+		System.out.println(("+1"));
+	
 		System.out.println(("Réenvoi"));
 	}
+	
 
 }
