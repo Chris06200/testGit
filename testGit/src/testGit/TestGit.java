@@ -20,6 +20,7 @@ public class TestGit {
 		System.out.println(("+1"));
 	
 		System.out.println(("Réenvoi"));
+		System.out.println(("+2"));
 	}
 	
 
